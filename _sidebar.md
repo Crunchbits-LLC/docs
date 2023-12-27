@@ -2,3 +2,4 @@
 - [Creating and using SSH keys in Virtfusion](Creating-and-using-SSH-keys-[VF-Only])
 - [How to rebuild a VPS](How-to-rebuild-a-VPS)
 - [How to Switch from SSH Key to Password Authentication After Losing an SSH Key](How-to-Switch-from-SSH-Key-to-Password-Authenticat)
+- [How to partition, format, and mount your block storage](Using-your-block-storage)
