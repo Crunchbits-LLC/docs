@@ -4,7 +4,7 @@ Here are the steps to quick format and permanently mount an additional hard driv
 
 1. Open a ticket and make sure we have mounted your additional large storage. Once we have done so, you will be notified and your VPS will need to be restarted for the disk to be visible to the OS.
 
-2. SSH to your server and use the command lsblk to check the name and partition of the newly added hard drive. It will be listed as a block device and will typically be named <code>/dev/sdb</code>
+2. SSH to your server and use the command <code>lsblk</code> to check the name and partition of the newly added hard drive. It will be listed as a block device and will typically be named <code>/dev/sdb</code>
 
 3. Use the command <code>fdisk /dev/sdb</code> (or the appropriate name for your hard drive in place of 'sdb') to open the fdisk utility and partition the hard drive.
 
