@@ -21,7 +21,7 @@ List of more updated FAQ starts here
 - Does Crunchbits support Windows ISOs on their VPS plans?
     - Yes, Crunchbits allows customers to install Windows on their VPS (as long as it is 2GB RAM or higher). Crunchbits **does not** provide licensing for any version of Windows and we do not provide any technical support related to Windows. You should be prepared to have a strong working knowledge of how to install, configure, and administer a remote Windows installation. We do provide multiple Windows ISOs for customers.
 <details>
-<summary>- What ISO's or Operating Systems are available to install on my VPS?</summary>
+    <summary>- What ISO's or Operating Systems are available to install on my VPS?</summary>
     - The following Operating systems are available:
         - AlmaLinux
         - 8 Minimal
@@ -54,8 +54,7 @@ List of more updated FAQ starts here
         - Windows Server 2022 Standard
         - Windows Server 2022 Datacenter
 </details>
-<details>
-<summary>- Yearly Fair Use CPU Usage</summary>
+- Yearly Fair Use CPU Usage
 The yearly plans are not dedicated, but yes you can actually use the cores allotted. These plans are promotional and non-standard to our regular offerings, so this does not apply to our standard VPS and VDS product line-up.
 
 Fair share CPU Usage (if the usage looks like abuse, we will suspend and contact you).
@@ -70,4 +69,3 @@ Questionable: Somewhere in between 25% and 75% load
 An unsafe number: 75%+ load
 
 We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
-</details>
