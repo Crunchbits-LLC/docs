@@ -5,3 +5,4 @@
 - [How to partition, format, and mount your block storage](Using-your-block-storage)
 - [Windows ARP Issues and Broken Connectivity](windows-arp)
 - [OS Templates](available-OS)
+- [Yearly - Fair Use](fair-use-yeraly)
