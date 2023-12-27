@@ -3,3 +3,4 @@
 - [How to rebuild a VPS](How-to-rebuild-a-VPS)
 - [How to Switch from SSH Key to Password Authentication After Losing an SSH Key](How-to-Switch-from-SSH-Key-to-Password-Authenticat)
 - [How to partition, format, and mount your block storage](Using-your-block-storage)
+- [Windows ARP Issues and Broken Connectivity](windows-arp)
