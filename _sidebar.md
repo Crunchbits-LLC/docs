@@ -1,2 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
+- [Using the basic functions of the VPS](Using the basic functions of the server)
