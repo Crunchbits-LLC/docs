@@ -91,6 +91,3 @@ To add your public SSH key to a remote Ubuntu or Debian server, follow these ste
 <code>chmod 700 ~/.ssh</code>
 <code>chmod 600 ~/.ssh/authorized_keys</code>
 
-### Using SSH Keys:
-
-<code>ssh -i /path/to/privatekey root@crucnhbits.com</code>
