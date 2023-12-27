@@ -19,7 +19,7 @@ List of more updated FAQ starts here
 - Does Crunchbits support IPv6?
     - Yes. All VPS's natively come with a /64. If you need an IPv6 allocation for your dedicated server, just contact technical support and let us know.
 - Does Crunchbits support Windows ISOs on their VPS plans?
-    - Yes, Crunchbits allows customers to install Windows on their VPS (as long as it is 2GB RAM or higher). Crunchbits **does not** provide licensing for any version of Windows and we do not provide any technical support related to Windows. You should be prepared to have a strong working knowledge of how to install, configure, and administer a remote Windows installation. We do provide multiple Windows ISOs for customers.
+    - Yes, Crunchbits allows customers to install Windows on their VPS (as long as it is 2GB RAM or higher). Crunchbits **does not** provide licensing for any version of Windows and we do not provide any technical support related to Windows. You should be prepared to have a strong working knowledge of how to install, configure, and administer a remote Windows installation. We do provide multiple Windows Server templates for customers.
  - What ISO's or Operating Systems are available to install on my VPS?
     - The following Operating systems are available:
         - AlmaLinux
@@ -68,3 +68,5 @@ List of more updated FAQ starts here
     An unsafe number: 75%+ load
 
   We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
+
+  
