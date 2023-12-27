@@ -63,8 +63,8 @@ List of more updated FAQ starts here
     2. If you're using a lot more than your peers, continually, we'll contact you and give you a heads up if it's a problem.
     3. If you're non-responsive to that, we'll suspend you until we get a reply.
 
-A safe number: no more than 25% continual load on your cores. At or under that, you'll never hear from us.
+  A safe number: no more than 25% continual load on your cores. At or under that, you'll never hear from us.
     Questionable: Somewhere in between 25% and 75% load
     An unsafe number: 75%+ load
 
-We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
+  We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
