@@ -1,6 +1,5 @@
 # Using the basic functions of the server
 
-Owner: Rafał Hacuś
 
 # Overview tab
 
