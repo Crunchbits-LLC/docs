@@ -93,4 +93,4 @@ To add your public SSH key to a remote Ubuntu or Debian server, follow these ste
 
 ### Using SSH Keys:
 
-ssh -i /path/to/privatekey root@crucnhbits.com
+<code>ssh -i /path/to/privatekey root@crucnhbits.com</code>
