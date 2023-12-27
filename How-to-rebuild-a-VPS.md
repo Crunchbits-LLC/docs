@@ -26,7 +26,7 @@ To access the server, follow these steps:
 ###### 5. Set the hostname to your desired value.
 ###### 6. Select the correct timezone for the server.
 ###### 7. Choose an operating system.
-###### 8. [You can also add an SSH key. Refer to this article for instructions on generating and using SSH keys. [optional]](https://www.notion.so/Creating-and-using-SSH-keys-VF-Only-a0b8b87d548c46c0803fea77b5f146b7?pvs=21)
+###### 8. [You can also add an SSH key. Refer to this article for instructions on generating and using SSH keys. [optional]](https://docs.crunchbits.com/#/Creating-and-using-SSH-keys-[VF-Only]?id=creating-and-using-ssh-keys-vf-only)
 
 ![5685467456.png](How%20to%20rebuild%20a%20VPS%20c042d796a02c4de4b3e18249466027c1/5685467456.png)
 

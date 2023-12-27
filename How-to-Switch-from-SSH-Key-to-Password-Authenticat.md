@@ -1,9 +1,9 @@
 # How to Switch from SSH Key to Password Authentication After Losing an SSH Key
 
 ###### 1. Go to [https://virt.crunchbits.com](https://virt.crunchbits.com) 
-###### 2. [Power off your VM](https://www.notion.so/Using-the-basic-functions-of-the-server-102f2d21f0f44ac5b694603d41357ed6?pvs=21)
-###### 3. [Enable VNC console](https://www.notion.so/Using-the-basic-functions-of-the-server-102f2d21f0f44ac5b694603d41357ed6?pvs=21)
-###### 4. [Change the root password](https://www.notion.so/Using-the-basic-functions-of-the-server-102f2d21f0f44ac5b694603d41357ed6?pvs=21)
+###### 2. [Power off your VM](https://docs.crunchbits.com/#/Using-the-basic-functions-of-the-server?id=_4-powering-off)
+###### 3. [Enable VNC console](https://docs.crunchbits.com/#/Using-the-basic-functions-of-the-server?id=_1-enabling-vnc)
+###### 4. [Change the root password](https://docs.crunchbits.com/#/Using-the-basic-functions-of-the-server?id=_2-changing-the-root-password)
 ###### 5. Enter the VNC console
     
 ![46375456745645 (1).png](How%20to%20Switch%20from%20SSH%20Key%20to%20Password%20Authenticat%201324f4be317a4dc8b791e69dd84e6594/46375456745645_(1).png)
