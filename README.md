@@ -20,52 +20,51 @@ List of more updated FAQ starts here
     - Yes. All VPS's natively come with a /64. If you need an IPv6 allocation for your dedicated server, just contact technical support and let us know.
 - Does Crunchbits support Windows ISOs on their VPS plans?
     - Yes, Crunchbits allows customers to install Windows on their VPS (as long as it is 2GB RAM or higher). Crunchbits **does not** provide licensing for any version of Windows and we do not provide any technical support related to Windows. You should be prepared to have a strong working knowledge of how to install, configure, and administer a remote Windows installation. We do provide multiple Windows ISOs for customers.
-<details>
-    <summary>- What ISO's or Operating Systems are available to install on my VPS?</summary>
+ - What ISO's or Operating Systems are available to install on my VPS?
     - The following Operating systems are available:
         - AlmaLinux
-        - 8 Minimal
-        - 9 Latest
+            - 8 Minimal
+            - 9 Latest
 
         - CentOS
-        - 7 Minimal
-        - Stream 9
+            - 7 Minimal
+            - Stream 9
 
         - Debian
-        - Debian 10 (Buster) Minimal
-        - Debian 11 (Bullseye) Minimal
+            - Debian 10 (Buster) Minimal
+            - Debian 11 (Bullseye) Minimal
 
         - Fedora
-        - Fedora 34 Minimal
-        - Fedora 35 Minimal
-        - Fedora 36 Minimal
+            - Fedora 34 Minimal
+            - Fedora 35 Minimal
+            - Fedora 36 Minimal
 
         - Rocky Linux
-        - Rocky Linux 8 Minimal
+            - Rocky Linux 8 Minimal
 
         - Ubuntu
-        - Ubuntu Server 18.04 LTS
-        - Ubuntu Server 20.04 LTS
-        - Ubuntu Server 22.04 LTS
+            - Ubuntu Server 18.04 LTS
+            - Ubuntu Server 20.04 LTS
+            - Ubuntu Server 22.04 LTS
 
         - Windows
-        - Windows Server 2019 Standard
-        - Windows Server 2019 Datacenter
-        - Windows Server 2022 Standard
+            - Windows Server 2019 Standard
+            - Windows Server 2019 Datacenter
+            - Windows Server 2022 Standard
         - Windows Server 2022 Datacenter
-</details>
+
 - Yearly Fair Use CPU Usage
-The yearly plans are not dedicated, but yes you can actually use the cores allotted. These plans are promotional and non-standard to our regular offerings, so this does not apply to our standard VPS and VDS product line-up.
+    The yearly plans are not dedicated, but yes you can actually use the cores allotted. These plans are promotional and non-standard to our regular offerings, so this does not apply to our standard VPS and VDS product line-up.
 
-Fair share CPU Usage (if the usage looks like abuse, we will suspend and contact you).
+    Fair share CPU Usage (if the usage looks like abuse, we will suspend and contact you).
 
-The standard operating procedure for this:
-1. If you're a power user, and on a node with a lot of other power users, we'll quietly migrate you around to balance it out if the hypervisor looks a bit too busy for our ability to sleep comfortably at night.
-2. If you're using a lot more than your peers, continually, we'll contact you and give you a heads up if it's a problem.
-3. If you're non-responsive to that, we'll suspend you until we get a reply.
+    The standard operating procedure for this:
+    1. If you're a power user, and on a node with a lot of other power users, we'll quietly migrate you around to balance it out if the hypervisor looks a bit too busy for our ability to sleep comfortably at night.
+    2. If you're using a lot more than your peers, continually, we'll contact you and give you a heads up if it's a problem.
+    3. If you're non-responsive to that, we'll suspend you until we get a reply.
 
-A safe number: no more than 25% continual load on your cores. At or under that, you'll never hear from us.
-Questionable: Somewhere in between 25% and 75% load
-An unsafe number: 75%+ load
+    A safe number: no more than 25% continual load on your cores. At or under that, you'll never hear from us.
+    Questionable: Somewhere in between 25% and 75% load
+    An unsafe number: 75%+ load
 
-We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
+    We won't sugarcoat it: these plans are not meant to compete with our existing premium product stack. It's older hardware, slower drives, less capacity, and will be busier nodes. All things that do not apply to our standard product lineup. Will that matter for anyone who isn't crypto-mining or running a million-dollar e-commerce website? No. But if you're closer to that end of the spectrum definitely look at our VPS and VDS products.
