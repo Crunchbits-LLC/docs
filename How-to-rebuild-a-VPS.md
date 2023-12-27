@@ -4,8 +4,8 @@
 
 To access the server, follow these steps:
 
-1. Go to [https://virt.crunchbits.com/dashboard](https://virt.crunchbits.com/dashboard) and log in to your account.
-2. Once logged in, click "Manage" for the server you want to reinstall.
+#### 1. Go to [https://virt.crunchbits.com/dashboard](https://virt.crunchbits.com/dashboard) and log in to your account.
+#### 2. Once logged in, click "Manage" for the server you want to reinstall.
 
 ![imag1e.png](How%20to%20rebuild%20a%20VPS%20c042d796a02c4de4b3e18249466027c1/imag1e.png)
 
