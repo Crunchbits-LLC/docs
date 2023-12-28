@@ -49,7 +49,7 @@ summary {
 }
 
 summary:focus {
-  outline: none;
+  color: var(--theme-color,#ea6f5a); font-weight: 600;
   
 }
 
