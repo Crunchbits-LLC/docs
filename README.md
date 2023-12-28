@@ -35,6 +35,85 @@ Yes. All VPS's natively come with a /64. If you need an IPv6 allocation for your
 <details><summary>Does Crunchbits support Windows ISOs on their VPS plans?**  </summary>
 Yes, Crunchbits allows customers to install Windows on their VPS (as long as it is 2GB RAM or higher). Crunchbits does not provide licensing for any version of Windows and we do not provide any technical support related to Windows. You should be prepared to have a strong working knowledge of how to install, configure, and administer a remote Windows installation. We do provide multiple Windows Server templates for customers.</details>
 
+<style>
+    
+details {
+  width: 75%;
+  min-height: 5px;
+  max-width: 700px;
+  padding: 45px 70px 45px 45px;
+  margin: 0 auto;
+  position: relative;
+  font-size: 22px;
+  border: 1px solid rgba(0,0,0,.1);
+  border-radius: 15px;
+  box-sizing: border-box;
+  transition: all .3s;
+}
+
+details + details {
+  margin-top: 20px;
+}
+
+details[open] {
+  min-height: 50px;
+  background-color: #f6f7f8;
+  box-shadow: 2px 2px 20px rgba(0,0,0,.2);
+}
+
+details p {
+  color: #96999d;
+  font-weight: 300;
+}
+
+summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+summary:focus {
+  outline: none;
+  
+}
+
+summary:focus::after {
+  content: "";
+  height: 100%;
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 0 5px rebeccapurple;
+}
+
+summary::-webkit-details-marker {
+  display: none
+}
+
+.control-icon {
+  fill: rebeccapurple;
+  transition: .3s ease;
+  pointer-events: none;
+}
+
+.control-icon-close {
+  display: none;
+}
+
+details[open] .control-icon-close {
+  display: initial;
+  transition: .3s ease;
+}
+
+details[open] .control-icon-expand {
+  display: none;
+}
+</style>
+
 <details>
   <summary>
     Does Crunchbits have nested virtualization enabled by default?
