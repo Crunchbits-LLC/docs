@@ -14,7 +14,6 @@ Click [here](Using-the-basic-functions-of-the-server) to follow our basic gettin
 details {
   width: 75%;
   min-height: 5px;
-  max-width: 700px;
   padding: 45px 70px 45px 45px;
   margin: 0 auto;
   position: relative;
