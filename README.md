@@ -10,7 +10,14 @@ Click [here](Using-the-basic-functions-of-the-server) to follow our basic gettin
 # Frequently Asked Questions
 
 <details><summary style="color: var(--theme-color,#ea6f5a); font-weight: 600;">Does Crunchbits have nested virtualization enabled by default?  </summary>
-> Yes, every KVM and vDedicated (Smart Server / Instant Dedicated) we offer has nested virtualization enabled by default and uses host-passthrough KVM for maximum customer performance and compatibility.
+<p style="    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    border-left: 4px solid var(--theme-color,#ea6f5a);
+    margin: 2em 0;
+    padding-left: 20px;">Yes, every KVM and vDedicated (Smart Server / Instant Dedicated) we offer has nested virtualization enabled by default and uses host-passthrough KVM for maximum customer performance and compatibility.</p>
 </details>
 &nbsp;
 <details><summary>**Does Crunchbits support custom rDNS entries on VPS plans?**  </summary>
