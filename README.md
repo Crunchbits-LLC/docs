@@ -57,7 +57,7 @@ details + details {
 
 details[open] {
   min-height: 50px;
-  background-color: #858585;
+  background-color: #333333;
   box-shadow: 2px 2px 20px rgba(0,0,0,.2);
 }
 
