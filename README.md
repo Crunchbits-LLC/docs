@@ -13,6 +13,7 @@ Click [here](Using-the-basic-functions-of-the-server) to follow our basic gettin
     
 details {
   width: 75%;
+  max-width:2000px;
   min-height: 5px;
   padding: 45px 70px 45px 45px;
   margin: 0 auto;
