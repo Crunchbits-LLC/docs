@@ -15,7 +15,7 @@ details {
   width: 100%;
   max-width:2000px;
   min-height: 5px;
-  padding: 45px 70px 45px 45px;
+  padding: 45px 45px 45px 45px;
   margin: 0 auto;
   position: relative;
   font-size: 22px;
