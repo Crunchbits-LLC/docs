@@ -53,7 +53,7 @@ summary {
 }
 
 summary:focus {
-
+outline: none;
   
 }
 
