@@ -61,7 +61,7 @@ summary:focus::after {
   position: absolute;
   top: 0;
   left: 0;
-  box-shadow: 0 0 0 5px rebeccapurple;
+  color: var(--theme-color,#ea6f5a); font-weight: 600;
 }
 
 summary::-webkit-details-marker {
