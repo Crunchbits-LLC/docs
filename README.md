@@ -53,7 +53,7 @@ summary {
 }
 
 summary:focus {
-  color: var(--theme-color,#ea6f5a); font-weight: 600;
+
   
 }
 
