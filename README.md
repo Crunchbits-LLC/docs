@@ -35,7 +35,7 @@ details[open] {
   box-shadow: 2px 2px 20px rgba(0,0,0,.2);
 }
 
-details[open].summary{
+details[open] summary{
     color: var(--theme-color,#ea6f5a); font-weight: 600;
 }
 
