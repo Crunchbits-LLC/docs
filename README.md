@@ -12,7 +12,7 @@ Click [here](Using-the-basic-functions-of-the-server) to follow our basic gettin
 <style>
     
 details {
-  width: 75%;
+  width: 100%;
   max-width:2000px;
   min-height: 5px;
   padding: 45px 70px 45px 45px;
